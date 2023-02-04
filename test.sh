@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat employee-details.txt | tail -1
+cat employee-details.txt | tail -2
